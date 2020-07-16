@@ -2,7 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Naim",
+      "address": "Dhaka",
+      "rating": 5,
+      "type": "Hills",
+      "picture": null
     }
   ]
 }
